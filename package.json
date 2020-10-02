@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin get header param",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "header param",
+    "description": ""
+  },
+  "main": "main.js"
+}
